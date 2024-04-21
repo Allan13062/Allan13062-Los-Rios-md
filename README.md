@@ -6,7 +6,7 @@
 <img src="https://telegra.ph/file/efa95dac659f93718b73f.jpg" width="300" height="300"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=LOS+RIOS+md+WHATSAPP+BOT+🚘" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=ALLAN+GEORGE+MD+WHATSAPP+BOT+🚘" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-ᴠᴇɴᴏᴄʏʙᴇʀ-red.svg?style=for-the-badge&logo=github"></a>
@@ -16,7 +16,7 @@
 <a href="https://github.com/kingjux/Los-Rios-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kingjux/Los-Rios-md?color=white&style=flat-square"></a>
 <a href="https://github.com/kingjux/Los-Rios-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kingjux/Los-Rios-md?color=yellow&style=flat-square"></a>
 <a href="https://github.com/kingjux/Los-Rios-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kingjux/Los-Rios-md?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/kingjux/Los-Rios-md/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
+<a href="https://github.com/Allan13062/Los-Rios-md/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kingjux/Los-Rios-md/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/kingjux/Los-Rios-md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
@@ -26,15 +26,15 @@
 ### Please Give One Star ✨ & [follow for me notify my updates 💗](https://github.com/kingjux)
 <b>Version -> 2.0.0</b>
  
-# Los Rios MD whatsapp bot is,
+# Allan Gior MD whatsapp bot is,
 
-      Los Rios md whatsapp bot is an easy to use whatsapp robot.   |  Los Rios md whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+      Allan Gior md whatsapp bot is an easy to use whatsapp robot.   |  Allan Gior md whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
 
 <p align="left">
-<a href="https://github.com/kingjux/Los-Rios-md/fork"><img align="center" src="https://telegra.ph/file/ef0bf595dc5999821c859.jpg" alt="Fork and deploy" height="50" width="200" /></a>
+<a href="https://github.com/Allan13062/Los-Rios-md/fork"><img align="center" src="https://telegra.ph/file/ef0bf595dc5999821c859.jpg" alt="Fork and deploy" height="50" width="200" /></a>
 
 # 
 
