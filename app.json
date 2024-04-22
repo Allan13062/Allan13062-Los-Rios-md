@@ -1,9 +1,9 @@
 {
-  "name":"LOS RIOS MD 🚘",
-  "description":"LOS RIOS MD MULTIDIVICE CREATED BY VENOCYBER",
+  "name":"ALLAN GIOR MD 🚘",
+  "description":"ALLAN GIOR MD MULTIDIVICE CREATED BY ALLAN GEORGE",
   "keywords":["VENOCYBER","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/efa95dac659f93718b73f.jpg",
-  "repository":"https://github.com/Kingjux/Los-Rios-md",
+  "logo":"https://telegra.ph/file/83fb40924978faacdd66a.jpg",
+  "repository":"https://github.com/Allan13062/Los-Rios-md",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"ʟᴏs ʀɪᴏs 🚘 𝗠𝗗 𝗕𝗢𝗧",
+      "value":"ALLAN 🚘 𝗠𝗗 𝗕𝗢𝗧",
       "required":false
 
     } ,
@@ -54,7 +54,7 @@
     }
 	,
     "HEROKU_API_KEY": {
-    "description": "insert your heroku api-key (this is optionnal)",
+    "description": "insert your heroku api-key (this is optional)",
      "required" :false
     },
   "HEROKU_APP_NAME": {
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "MR VENOCYBER"
+    "value": "ALLAN GIOR"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255698101622"
+    "value": "254797450206"
   },
     "WARN_COUNT":
   {
