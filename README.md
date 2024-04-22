@@ -3,7 +3,7 @@
 <u>♥️ ALLAN GIOR ᴍᴅ 🚘 🚘 ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𝐕𝐞𝐧𝐨𝐜𝐲𝐛𝐞𝐫 𝐀𝐝𝐦𝐢𝐧 ♥️</u>
 </p>
 <p align="center">
-<img src="https://telegra.ph/file/efa95dac659f93718b73f.jpg" width="300" height="300"/>
+<img src="https://telegra.ph/file/83fb40924978faacdd66a.png" width="300" height="300"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=ALLAN+GEORGE+MD+WHATSAPP+BOT+🚘" alt="">
